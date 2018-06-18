@@ -39,7 +39,8 @@ SOURCES += main.cpp\
     lexicon_sublexicon.cpp \
     lexicon_crab2.cpp \
     signature_graph.cpp \
-    parsings.cpp
+    parsings.cpp \
+    string_group.cpp
 
 HEADERS  += mainwindow.h \
     CompareFunc.h \
@@ -62,7 +63,8 @@ HEADERS  += mainwindow.h \
     lxamodels.h \
     table_views.h\
     mainwindow.h \
-    parsings.h
+    parsings.h \
+    string_group.h
 
 FORMS    +=
 
